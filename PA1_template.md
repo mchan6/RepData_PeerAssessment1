@@ -103,7 +103,7 @@ max_interval
 ## [1] 835
 ```
 
-##Imputing missing values
+## Inputting missing values
 
 Calculate and report the total number of missing values in the dataset (i.e. the total number of rows with NAs). There are 2304 missing values.
 
@@ -168,7 +168,7 @@ median(steps_day2$steps)
 
 The estimates do not change much at all even after replacing the NA's.
 
-##Are there differences in activity patterns between weekdays and weekends?
+## Are there differences in activity patterns between weekdays and weekends?
 
 Create a new factor variable in the dataset with two levels – “weekday” and “weekend” indicating whether a given date is a weekday or weekend day.
 
